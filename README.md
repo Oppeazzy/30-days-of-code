@@ -16,11 +16,11 @@ This repository contains my personal solutions to [HackerRank's 30 Days of Code]
 - `solution.cpp` (C++)
 
 ### 🧠 Sample Input:
- I'm gonnabe great in tech
+ I'm gonna be great in tech
 
 ### 📤 Sample Output:
 Hello, world
-I'm gona be great in tech
+I'm gonna  be great in tech
 
 
 ---
