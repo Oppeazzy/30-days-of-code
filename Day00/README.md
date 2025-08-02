@@ -2,7 +2,7 @@
 
 This folder contains my solution to **Day 0** of [HackerRank’s 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
 
----
+
 
 ## 🔸 Problem Summary
 
@@ -10,21 +10,21 @@ The goal is to write a program that:
 1. Prints `Hello, World.` on the first line
 2. Then prints whatever input string the user provides on the second line
 
----
+
 
 ## 📂 Files Included
 
 - `solution.cpp` – C++ version
 - `solution.py` – Python version
 
----
+
 
 ## 🔍 Sample Input
 I'm gonna be greate in tech
 
 
 ## ✅ Sample output 
-Hello, worl
+Hello, world
 I'm gonna be great in tech
 
 

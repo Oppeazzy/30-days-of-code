@@ -2,7 +2,7 @@
 
 This folder contains my solution to **Day 1** of [HackerRank’s 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
 
----
+
 
 ## 🔸 Problem Summary
 
@@ -17,14 +17,12 @@ Your task is to:
 3. Print the **sum of doubles** (with 1 decimal)
 4. Print the **concatenation** of the strings
 
----
 
 ## 📂 Files Included
 
 - `solution.cpp` – C++ solution
 - `solution.py` – Python solution
 
----
 
 ## 🔍 Sample Input
 8
@@ -38,7 +36,7 @@ is the best way to learn and practice coding
 HackerRank is the best way to learn and practice coding
 
 
----
+
 
 ## 🚀 What I Learned
 

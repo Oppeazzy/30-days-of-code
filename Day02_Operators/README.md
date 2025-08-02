@@ -3,7 +3,7 @@
 
 This folder contains my solution to **Day 2** of [HackerRank’s 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
 
----
+
 
 ## 🔸 Problem Summary
 
@@ -19,14 +19,14 @@ Your task:
 4. Round the total to the nearest whole number
 5. Print the result
 
----
+
 
 ## 📂 Files Included
 
 - `solution.cpp` – C++ version
 - `solution.py` – Python version
 
----
+
 
 ## 🔍 Sample Input
 12

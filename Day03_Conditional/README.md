@@ -3,7 +3,7 @@
 
 This folder contains my solution to **Day 3** of [HackerRank’s 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
 
----
+
 
 ## 🔸 Problem Summary
 
@@ -17,14 +17,13 @@ Your task is to:
   - `n` is **even and in the range 2 to 5 (inclusive)**
   - OR `n` is **even and greater than 20**
 
----
 
 ## 📂 Files Included
 
 - `solution.cpp` – C++ version
 - `solution.py` – Python version
 
----
+
 
 ## 🔍 Sample Input & Output
 
@@ -43,7 +42,7 @@ Not Weired
 ### Sample Output:
 Weired
 
----
+
 
 ## 🚀 What I Learned
 
